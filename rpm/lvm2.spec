@@ -48,6 +48,7 @@ Source0: %{name}-%{version}.tar.bz2
 
 BuildRequires: ncurses-devel
 BuildRequires: kmod
+BuildRequires: libaio-devel
 # libudev lives now in systemd so require systemd-devel when udev support
 # is enabled too.
 %if %{enable_systemd}%{enable_udev}
