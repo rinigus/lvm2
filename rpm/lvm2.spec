@@ -306,10 +306,12 @@ This package contains shared lvm2 libraries for applications.
 %{_libdir}/device-mapper/libdevmapper-event-lvm2snapshot.so
 %{_libdir}/device-mapper/libdevmapper-event-lvm2raid.so
 %{_libdir}/device-mapper/libdevmapper-event-lvm2thin.so
+%{_libdir}/device-mapper/libdevmapper-event-lvm2vdo.so
 %{_libdir}/libdevmapper-event-lvm2thin.so
 %{_libdir}/libdevmapper-event-lvm2mirror.so
 %{_libdir}/libdevmapper-event-lvm2snapshot.so
 %{_libdir}/libdevmapper-event-lvm2raid.so
+%{_libdir}/libdevmapper-event-lvm2vdo.so
 
 ##############################################################################
 # Device-mapper subpackages
