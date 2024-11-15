@@ -40,7 +40,7 @@
 
 Summary: Userland logical volume management tools
 Name: lvm2
-Version: 2.02.177
+Version: 2.02.188
 Release: 1
 License: GPLv2
 URL: https://github.com/sailfishos/lvm2
